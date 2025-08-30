@@ -42,3 +42,7 @@ thread - finplyjobs
 --finploy2@gmail.com
 
 linkdin- all 3
+
+
+prompt---
+1. Okay, if I want to automate my 10 social media platforms in Make, and on each platform I have 2-3 pages, please tell me the most optimum way to do the automation in Make.com. Some websites require posts with both images and text, while others need only text posts (LinkedIn, Facebook, Twitter, etc.). The data is coming from a spreadsheet. Tell me the optimum way to do this.
