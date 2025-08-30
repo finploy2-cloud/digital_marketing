@@ -19,6 +19,8 @@ https://docs.google.com/spreadsheets/d/10HrbLFDPIsbIg44ZkXY8GdMwmjqhOL7lp6hkp5Z8
 10HrbLFDPIsbIg44ZkXY8GdMwmjqhOL7lp6hkp5Z8oTA -sheet_id
 13.	Make the trigger properly as everyday and give a time
 
+ps. be super carefull abt the filters the file what u use what functions u are selecting 
+
 buffer password
 
 eDcU#@N#kV6qKVi-finploy1.com
